@@ -1,0 +1,36 @@
+header{
+	background-image:url("images/entete.jpeg") ;
+	background-size: cover; 
+	background-position: center ;
+}
+
+#haut
+{
+	background-image:url("images/fond.jpeg") ;
+	background-size: cover; 
+	background-position: center ;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+	 background: #000000;
+    color: #FFFFFF;
+}
+button:hover
+{
+	background-color:;
+}
+.carousel-control-prev-icon{
+     background-image: url(images/flecheGauche.png);
+     width: 32px;
+     height: 32px;
+
+}
+.carousel-control-next-icon {
+     background-image: url(images/flecheDroite.png);
+     width: 32px;
+     height: 32px;
+}
